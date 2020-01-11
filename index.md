@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my Webpage!
+
+Currently a year 2 student in NUS.
+Doing Software Engineering, have to pick up Git and GitHub, Initially hate it but... Life goes on i guess :/. HAHA
 
 You can use the [editor on GitHub](https://github.com/joshlay96/joshlay.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
