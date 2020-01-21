@@ -1,40 +1,26 @@
-## Welcome to my Webpage!
+### Welcome to my Webpage!
 
-Currently a year 2 student in NUS.
-Doing Software Engineering, have to pick up Git and GitHub, Initially hate it but... Life goes on i guess :/. HAHA
+Currently a year 2 computer science student in NUS. 
 
-You can use the [editor on GitHub](https://github.com/joshlay96/joshlay.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Always aspired to be a pilot since young, am thankful to be able to travel around the world. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The next overseas trip would only be after graduation, when I've earned enough money to travel again :(
 
-### Markdown
+Will be slowly updating this web-page to document my past trips. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Countries travelled to so far:
 
-```markdown
-Syntax highlighted code block
+Greater China : (Hong Kong, Chengdu, Beijing, Taiwan)
 
-# Header 1
-## Header 2
-### Header 3
+South Korea: (Busan, Seoul)
 
-- Bulleted
-- List
+Japan: (Tokyo, Osaka, Kyoto)
 
-1. Numbered
-2. List
+Americas: (Orlando, Los Angeles)
 
-**Bold** and _Italic_ and `Code` text
+Europe: (Paris)
 
-[Link](url) and ![Image](src)
-```
+##Airlines taken:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Cathay Pacific, Cathay Dragon (Dragonair), Japan Airlines, Korean Air, Tigerair, Asiana Airlines, Thai Airways, Delta
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joshlay96/joshlay.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
